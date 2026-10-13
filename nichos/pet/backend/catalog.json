@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": "Ração para cães adultos · 10 kg",
+    "category": "Cães",
+    "priceCents": 12990,
+    "description": "Alimento completo de exemplo para a rotina de cães adultos.",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Ração para filhotes · 3 kg",
+    "category": "Cães",
+    "priceCents": 7490,
+    "description": "Opção de exemplo para cães em fase de crescimento.",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "name": "Petisco crocante · 250 g",
+    "category": "Cães",
+    "priceCents": 2490,
+    "description": "Um agrado para recompensas e momentos de interação.",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Cama aconchego tamanho M",
+    "category": "Cães",
+    "priceCents": 11990,
+    "description": "Cama macia com bordas elevadas para descansar.",
+    "stock": 50
+  },
+  {
+    "id": 5,
+    "name": "Peitoral ajustável tamanho M",
+    "category": "Cães",
+    "priceCents": 5990,
+    "description": "Ajuste ao corpo para passeios confortáveis.",
+    "stock": 50
+  },
+  {
+    "id": 6,
+    "name": "Guia de passeio · 1,5 m",
+    "category": "Cães",
+    "priceCents": 3990,
+    "description": "Guia com alça para acompanhar passeios diários.",
+    "stock": 50
+  },
+  {
+    "id": 7,
+    "name": "Brinquedo de corda",
+    "category": "Cães",
+    "priceCents": 1990,
+    "description": "Corda para brincadeiras supervisionadas.",
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "name": "Bola interativa",
+    "category": "Cães",
+    "priceCents": 2990,
+    "description": "Bola para momentos de diversão com o tutor.",
+    "stock": 50
+  },
+  {
+    "id": 9,
+    "name": "Ração para gatos adultos · 3 kg",
+    "category": "Gatos",
+    "priceCents": 8990,
+    "description": "Alimento completo de exemplo para gatos adultos.",
+    "stock": 50
+  },
+  {
+    "id": 10,
+    "name": "Ração para gatos castrados · 3 kg",
+    "category": "Gatos",
+    "priceCents": 9990,
+    "description": "Opção de exemplo para a alimentação de gatos castrados.",
+    "stock": 50
+  },
+  {
+    "id": 11,
+    "name": "Sachê para gatos · 85 g",
+    "category": "Gatos",
+    "priceCents": 590,
+    "description": "Alimento úmido para complementar a rotina alimentar.",
+    "stock": 50
+  },
+  {
+    "id": 12,
+    "name": "Areia higiênica · 4 kg",
+    "category": "Gatos",
+    "priceCents": 3290,
+    "description": "Granulado para a manutenção diária da caixa de areia.",
+    "stock": 50
+  },
+  {
+    "id": 13,
+    "name": "Arranhador com plataforma",
+    "category": "Gatos",
+    "priceCents": 14990,
+    "description": "Espaço para arranhar, se alongar e descansar.",
+    "stock": 50
+  },
+  {
+    "id": 14,
+    "name": "Varinha com penas",
+    "category": "Gatos",
+    "priceCents": 2290,
+    "description": "Brinquedo para interação supervisionada com o tutor.",
+    "stock": 50
+  },
+  {
+    "id": 15,
+    "name": "Caixa de areia aberta",
+    "category": "Gatos",
+    "priceCents": 4990,
+    "description": "Bandeja de limpeza prática para a rotina do gato.",
+    "stock": 50
+  },
+  {
+    "id": 16,
+    "name": "Fonte de água · 2 litros",
+    "category": "Gatos",
+    "priceCents": 13990,
+    "description": "Fonte elétrica; conferir voltagem antes da compra real.",
+    "stock": 50
+  },
+  {
+    "id": 17,
+    "name": "Mistura de sementes · 1 kg",
+    "category": "Aves",
+    "priceCents": 2490,
+    "description": "Mistura ilustrativa; escolher conforme a espécie da ave.",
+    "stock": 50
+  },
+  {
+    "id": 18,
+    "name": "Poleiro de madeira",
+    "category": "Aves",
+    "priceCents": 1890,
+    "description": "Apoio para o ambiente da ave, com tamanho a conferir.",
+    "stock": 50
+  },
+  {
+    "id": 19,
+    "name": "Bebedouro para aves · 200 ml",
+    "category": "Aves",
+    "priceCents": 1490,
+    "description": "Reservatório para água fresca; higienizar diariamente.",
+    "stock": 50
+  },
+  {
+    "id": 20,
+    "name": "Brinquedo para aves",
+    "category": "Aves",
+    "priceCents": 2990,
+    "description": "Acessório de enriquecimento para espécies compatíveis.",
+    "stock": 50
+  },
+  {
+    "id": 21,
+    "name": "Ração para peixes · 100 g",
+    "category": "Peixes",
+    "priceCents": 1990,
+    "description": "Alimento ilustrativo; selecionar conforme a espécie.",
+    "stock": 50
+  },
+  {
+    "id": 22,
+    "name": "Filtro para aquário",
+    "category": "Peixes",
+    "priceCents": 7990,
+    "description": "Filtragem para aquário; dimensionar ao volume e à fauna.",
+    "stock": 50
+  },
+  {
+    "id": 23,
+    "name": "Rede para aquário",
+    "category": "Peixes",
+    "priceCents": 1290,
+    "description": "Rede de manejo para manutenção cuidadosa do aquário.",
+    "stock": 50
+  },
+  {
+    "id": 24,
+    "name": "Decoração para aquário",
+    "category": "Peixes",
+    "priceCents": 3490,
+    "description": "Elemento decorativo; verificar compatibilidade e dimensões.",
+    "stock": 50
+  },
+  {
+    "id": 25,
+    "name": "Feno para pequenos herbívoros · 1 kg",
+    "category": "Pequenos pets",
+    "priceCents": 2990,
+    "description": "Feno para espécies herbívoras, conforme orientação veterinária.",
+    "stock": 50
+  },
+  {
+    "id": 26,
+    "name": "Bebedouro para roedores · 250 ml",
+    "category": "Pequenos pets",
+    "priceCents": 2490,
+    "description": "Bebedouro com bico para espécies compatíveis.",
+    "stock": 50
+  },
+  {
+    "id": 27,
+    "name": "Casinha para hamster",
+    "category": "Pequenos pets",
+    "priceCents": 3990,
+    "description": "Refúgio para descanso; conferir dimensões para o animal.",
+    "stock": 50
+  },
+  {
+    "id": 28,
+    "name": "Túnel para pequenos pets",
+    "category": "Pequenos pets",
+    "priceCents": 4490,
+    "description": "Acessório para exploração supervisionada.",
+    "stock": 50
+  },
+  {
+    "id": 29,
+    "name": "Shampoo pet · 500 ml",
+    "category": "Cuidados",
+    "priceCents": 2990,
+    "description": "Produto de higiene ilustrativo; verificar espécie e indicação.",
+    "stock": 50
+  },
+  {
+    "id": 30,
+    "name": "Escova para pelos",
+    "category": "Cuidados",
+    "priceCents": 3490,
+    "description": "Escova para auxiliar nos cuidados com a pelagem.",
+    "stock": 50
+  },
+  {
+    "id": 31,
+    "name": "Tapete higiênico · 30 unidades",
+    "category": "Cuidados",
+    "priceCents": 5490,
+    "description": "Tapetes absorventes para a higiene do ambiente.",
+    "stock": 50
+  },
+  {
+    "id": 32,
+    "name": "Comedouro inox · 750 ml",
+    "category": "Cuidados",
+    "priceCents": 2990,
+    "description": "Recipiente para alimentação, fácil de higienizar.",
+    "stock": 50
+  },
+  {
+    "id": 33,
+    "name": "Caixa de transporte",
+    "category": "Cuidados",
+    "priceCents": 15990,
+    "description": "Transporte com ventilação; conferir medidas e limite de peso.",
+    "stock": 50
+  },
+  {
+    "id": 34,
+    "name": "Saquinhos para passeio · 60 unidades",
+    "category": "Cuidados",
+    "priceCents": 1690,
+    "description": "Saquinhos para recolher resíduos durante os passeios.",
+    "stock": 50
+  }
+]
