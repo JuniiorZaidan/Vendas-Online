@@ -10,3 +10,6 @@ Confiança B para existência e C para demanda. Nenhum destes foi demonstrado co
 Hipóteses: adestramento doméstico, rotina de filhotes e educação para tutores. Selecionar conteúdo e profissional pela qualidade antes da comissão. Verificar afiliação, política de reembolso, suporte e autorização de divulgação com o produtor.
 
 Priorizar captação por conteúdo útil, avaliação de interesse e teste pequeno. Não prometer resultados garantidos.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.

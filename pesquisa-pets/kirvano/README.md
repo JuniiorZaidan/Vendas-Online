@@ -10,3 +10,6 @@ Hipóteses (C): educação de filhotes, higiene e rotina, enriquecimento ambient
 Antes de afiliar: conferir produtor, conteúdo, suporte, comissão, reembolso e autorização de criativos. Posição em “Mais lucrativos” não equivale necessariamente a maior quantidade vendida.
 
 Captar leads próprios com checklist gratuito e consentimento; validar procura antes de produzir curso.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.

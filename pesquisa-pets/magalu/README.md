@@ -8,3 +8,6 @@ Existem ofertas de tapetes de diversas marcas; não foi obtido ranking pet audit
 Prioridade sugerida: higiene descartável/lavável. Confirmar reputação do vendedor e SKU exato; comparar custo entregue com Shopee e Mercado Livre. A presença do produto no canal não comprova liderança.
 
 Teste de procura e margem antes de ampliar catálogo.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.

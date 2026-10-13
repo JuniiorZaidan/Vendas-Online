@@ -8,3 +8,6 @@ Contexto oficial: https://vendedores.mercadolivre.com.br/nota/live-novidades-na-
 Webinar da categoria em 05/05/2025; não foi extraído um ranking do vídeo.
 
 Próximo passo: registrar 20 anúncios comparáveis por tamanho e quantidade, incluindo contadores em duas datas. Preço competitivo só pode ser definido com comissão e frete reais.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.

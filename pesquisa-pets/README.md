@@ -20,3 +20,6 @@ Leia [metodologia](METODOLOGIA.md), [plano de validação](PLANO-30-DIAS.md) e [
 
 ## Limite de cobertura
 “Todos os marketplaces” não é um universo fechado. Foram pesquisados os seis citados e três adicionais relevantes. Não há acesso a vendas privadas, painéis de vendedores ou listas de clientes. Ranking global e vendas mensais não foram inferidos de avaliações ou contadores acumulados.
+
+## Revisão individual
+Veja o [consolidado das 41 análises](CONSOLIDADO.md). Cada uma das nove pastas agora possui PRODUTOS.md com decisão comercial, fonte, risco e limite de evidência. Amazon e Kirvano continuam sem confirmação de ranking atual; conclusão comercial não significa acesso a vendas privadas.

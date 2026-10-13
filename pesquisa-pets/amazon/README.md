@@ -7,3 +7,6 @@ Hipóteses para validar: sachês, petiscos, tapetes e areia. Consumíveis favore
 Não comprar estoque com base neste recorte. Conferir top 20 de Pet Shop e subcategorias em conta/região brasileira, registrar posição e data, comparar embalagem exata. Produtos veterinários exigem análise comercial específica; não são a primeira indicação para iniciar.
 
 Nenhum volume mensal ou preço atual foi confirmado.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.

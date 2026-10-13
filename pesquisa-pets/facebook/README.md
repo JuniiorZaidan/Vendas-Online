@@ -7,3 +7,6 @@ Hipóteses: arranhadores, camas, casinhas e caixas de transporte com retirada/en
 Validar em Itaquaquecetuba, Guarulhos e Zona Leste: comparar 20 ofertas, condição e medidas. Medir conversas qualificadas, propostas e pedidos próprios. Anúncio removido não comprova venda.
 
 Não há ranking público de mais vendidos confirmado nem lista pública de compradores.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.

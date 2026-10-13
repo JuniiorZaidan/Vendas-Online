@@ -10,3 +10,6 @@ Hipóteses pet (confiança C): removedor de pelos, escova, brinquedo interativo 
 Teste: três demonstrações por produto, apresentar medida/material/limitação, medir cliques, pedidos e devoluções. Prospectar criadores pet com público brasileiro e conteúdo compatível; número de seguidores sozinho não qualifica parceria.
 
 Crescimento geral do TikTok não comprova sucesso da categoria pet.
+
+## Revisão dos produtos
+Consulte [PRODUTOS.md](PRODUTOS.md) para a conclusão comercial individual, evidência, risco e limites de cada candidato.
